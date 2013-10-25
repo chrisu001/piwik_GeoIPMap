@@ -1,15 +1,19 @@
 {
-    "name": "GeoIpMap",
+    "name": "GeoIPMap",
     "description": "Plugin to display the location of your visitors on Google-Maps/Openstreetmaps",
-    "version": "1.9.1",
+    "version": "1.9.9",
     "keywords": ["geoip", "worldmap"],
-    "homepage": "http://plugin.suenkel.org",
-    "license": "GPL-3.0+",
+    "homepage": "https://plugin.suenkel.org",
+    "license": "BSD-3",
+    "author": "Christian Suenkel",
+    "author_email": "piwik@suenkel.de",
+    "author_homepage": "https://plugin.suenkel.de",
+    
     "authors": [
         {
             "name": "Christian Suenkel",
             "email": "piwik@suenkel.de",
-            "homepage": "http://suenkel.de"
+            "homepage": "https://plugin.suenkel.de"
         }
     ],
     "require": {
